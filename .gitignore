@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+scenario.csv
+sites/shadow-capital-narrative/dist/
